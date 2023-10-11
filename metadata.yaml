@@ -1,5 +1,8 @@
 _repo: Miscellanies_71812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71812-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, Ralph Waldo
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '56409'
     url: http://www.gutenberg.org/2009/agents/56409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71812#Miscellanies
 gutenberg_issued: '2023-10-05'
 identifiers:
   gutenberg: '71812'
